@@ -13,3 +13,6 @@ For help getting started with Flutter, view our online
 * Dart
 * Android Studio
 * AVD Manager and USB debugging
+* Importing a dart package
+* Dart and Flutter plugins in Android Studio
+* Building simple Flutter Widgets
