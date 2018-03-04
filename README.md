@@ -16,3 +16,8 @@ For help getting started with Flutter, view our online
 * Importing a dart package
 * Dart and Flutter plugins in Android Studio
 * Building simple Flutter Widgets
+
+## Initial Reaction
+This is an inspiring tutorial! The workflow with Flutter.io
+seems to be ridiculously fast and well integrated with
+the IDE.
